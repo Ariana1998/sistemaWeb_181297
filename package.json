@@ -1,0 +1,21 @@
+{
+  "name": "servidorweb_181297",
+  "version": "1.0.0",
+  "description": "Practica de la materia de temas emergentes de app webs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Ariana1998"
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "Ariana Espinoza",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
